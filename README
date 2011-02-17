@@ -1,0 +1,7 @@
+Finds all the unique URLs in the last 100 tweets, searching with the supplied hashtag
+
+Usage:
+ ruby find_links.rb hashtag
+
+e.g.
+ ruby find_links.rb goruco
